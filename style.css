@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(170, 171, 172);
+    font-size: large;
+}
+h1{
+    font-family: sans-serif;
+    background-color: rgba(237, 250, 247, 0.651);
+    width: 300px;
+}
+.imagen{
+    box-sizing: border-box;
+
+    width: 336.24px;
+    height: 314.44px;
+    
+    border: 1px solid #000000;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    backdrop-filter: blur(2px);
+    /* Note: backdrop-filter has minimal browser support */
+    
+    border-radius: 84.5px;
+    transform: rotate(-0.14deg);
+}
+.secundario{
+    width: 700px; 
+}
+.experencia {
+    background-color: burlywood;
+    width:240px;
+}
+.inicio{
+    background-color: blueviolet;
+    width:450px;
+}
+.lorem{
+    background-color: rgb(255, 255, 255);
+}
